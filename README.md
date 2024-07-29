@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pramod-Shirke and These is My Github Profile
+- 👋 Hi, I’m Pramod-Shirke and These is My Github Profile
 
 <!---
 Pramod-Shirke/Pramod-Shirke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
